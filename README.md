@@ -1,1 +1,1 @@
-# Images_dataset_preparation
+# Compute Mean and STD of images dataset using Pytorch
