@@ -1,4 +1,4 @@
-# Images dataset preparation
+# Images dataset preparation using PyTorch
 This repo contains python scripts for ***Data preprocessing using pytorch***
 1-  Calculating **mean** of images dataset
 2-  Calculating **Standard deviatin** of Images dataset
